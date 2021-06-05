@@ -12,5 +12,9 @@
             this.qtdMovimentos = 0;
         }
 
+        public void incrementaQtMovimentos() {
+            this.qtdMovimentos++;
+        }
+
     }
 }
